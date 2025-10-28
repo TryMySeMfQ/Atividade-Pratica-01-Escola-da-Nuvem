@@ -2,12 +2,14 @@
 # Programa de Saudação
 print("Hello, world!")
 
+
 # ----- Exercício 2 -----
 # Calculadora de Soma
 numero1 = 12
 numero2 = 14
 soma = numero1 + numero2
 print("A soma é:", soma)
+
 
 # ----- Exercício 3 -----
 # Calculadora de Volume de uma Caixa Retangular
@@ -18,6 +20,7 @@ altura = 20
 volume = comprimento * largura * altura
 
 print("O volume da caixa é:", volume, "cm³")
+
 
 # ----- Exercício 4 -----
 # Calculadora de Preço Total da Compra
@@ -32,6 +35,7 @@ print("Preço unitário: R$", preco_unitario)
 print("Quantidade:", quantidade)
 print("Preço total: R$", preco_total)
 
+
 # ----- Exercício 5 -----
 # Calculadora de Diferença
 A = int(input("Digite o valor de A: "))
@@ -42,3 +46,4 @@ D = int(input("Digite o valor de D: "))
 diferenca = (A * B) - (C * D)
 
 print("DIFERENCA =", diferenca)
+
