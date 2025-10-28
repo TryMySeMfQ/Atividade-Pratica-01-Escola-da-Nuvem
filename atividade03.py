@@ -1,5 +1,5 @@
 # ==========================================
-# 🧮 ATIVIDADE PRÁTICA 03 – PYTHON BÁSICO
+# 🧮 ATIVIDADE PRÁTICA 03 
 # ==========================================
 
 # Dica: você pode usar vírgula ou ponto em números decimais.
@@ -147,3 +147,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
